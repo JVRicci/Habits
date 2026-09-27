@@ -1,0 +1,9 @@
+{
+    "name": "Habbits-App",
+    "private": true,
+    "workspaces": [
+        "HABITS-APP-BACKEND",
+        "HABITS-APP-FRONT-END",
+        "HABITS-APP-MOBILE"
+    ]
+}
